@@ -1,0 +1,7 @@
+This repository contains a public teaser only.
+
+The underlying architecture, source code, and emergent cognitive modules of Alethes are private and unpublished. No part of the actual system is distributed, disclosed, or documented herein.
+
+Unauthorized reproduction, derivative works, or reverse engineering of Alethes or its conceptual framework is strictly prohibited.
+
+This repository does not grant access to core system
